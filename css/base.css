@@ -309,6 +309,7 @@ main {
 	-webkit-text-fill-color: transparent;
 	text-fill-color: transparent;
 	color: transparent;
+	opacity: 0.3;
 }
 
 .strip-cover__subtitle {
@@ -511,8 +512,8 @@ main {
 		left: calc(100% + 5px);
 	}
 	.cursor__inner--circle {
-		width: 25px;
-		height: 25px;
+		width: 1px;
+		height: 1px;
 		border: 1px solid #fff;
 	}
 }
