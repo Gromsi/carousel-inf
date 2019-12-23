@@ -200,9 +200,9 @@
         }
         initEvents() {
             this.onDragStart = () => {
-                this.renderedStyles.scale.current = 0.8;
-                this.renderedStyles.imgScale.current = 1.6;
-                this.renderedStyles.opacity.current = 0.3;
+                this.renderedStyles.scale.current = 0.9;
+                this.renderedStyles.imgScale.current = 1.4;
+                this.renderedStyles.opacity.current = 0.8;
                 this.renderedStyles.coverScale.current = 1;
                 this.renderedStyles.coverOpacity.current = 1;
                 this.renderedStyles.indicatorScale.current = 0;
